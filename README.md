@@ -1,4 +1,4 @@
-# oleskaar
+# oleskaar - a text-to-speech soundboard prototype
 A prototype for a project in the course IN1050 Intro to Interaction Design
 
 Uses the Responsive Voice text-to-speech API to simulate a system the user can talk to. 
